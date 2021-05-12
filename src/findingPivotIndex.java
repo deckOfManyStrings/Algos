@@ -31,7 +31,6 @@ public class findingPivotIndex {
     int pivotIndex = function(nums);
 
     private int function(int[] nums) {
-        int index = 0;
         int right = 0;
         int left = 0;
         boolean indexExist = false;
